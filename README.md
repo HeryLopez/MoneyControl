@@ -1,6 +1,6 @@
 [![Google Play Store](badge_new.png)](https://play.google.com/store/apps/details?id=com.app.herydevelopments.moneycontrol)
 
-Google Play and the Google Play logo are trademarks of Google LLC.
+<sup>Google Play and the Google Play logo are trademarks of Google LLC.<sub>
 
 # Money Control Privacy Policy
 Money Control does not use any personal information. This information can be compiled by Google services when it comes to advertising applications with the aim of providing a better service to users. To see in detail what information is collected and how it is used it is recommended to consult the Google Privacy Policy.
